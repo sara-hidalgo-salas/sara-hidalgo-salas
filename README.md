@@ -32,13 +32,12 @@
 
 ## Repositorios Destacados
 
-*  **[Automatizacion-Mejora-Procesos-BPMN](./Automatizacion-Mejora-Procesos-BPMN)**  
+* **[Automatizacion-Mejora-Procesos-BPMN](https://github.com/sara-hidalgo-salas/Automatizacion-Mejora-Procesos-BPMN)**  
   *Colección de laboratorios de modelado, simulación cuantitativa y optimización de procesos de negocio empleando BPMN 2.0 y Bizagi.*
-*  **[Tecnicas-aprendizaje-automatico](.Tecnicas-aprendizaje-automatico)**  
+* **[Tecnicas-aprendizaje-automatico](https://github.com/sara-hidalgo-salas/Tecnicas-aprendizaje-automatico)**  
   *Proyectos y modelos de aprendizaje automático desarrollados en Python (Matrícula de Honor UCLM).*
-*  **[Ejercicios-Python](./Ejercicios-Python)**  
+* **[Ejercicios-Python](https://github.com/sara-hidalgo-salas/Ejercicios-Python)**  
   *Fundamentos, algoritmos y resolución de problemas programados en Python.*
-
 ---
 
 ## Contacto & Redes
