@@ -32,9 +32,9 @@
 
 ## Repositorios Destacados
 
-*  **[AMP-BPMN-Process-Optimization](./AMP-BPMN-Process-Optimization)**  
+*  **[Automatizacion-Mejora-Procesos-BPMN](./Automatizacion-Mejora-Procesos-BPMN)**  
   *Colección de laboratorios de modelado, simulación cuantitativa y optimización de procesos de negocio empleando BPMN 2.0 y Bizagi.*
-*  **[Machine-Learning-Projects](./Machine-Learning-Projects)**  
+*  **[Tecnicas-aprendizaje-automatico](.Tecnicas-aprendizaje-automatico)**  
   *Proyectos y modelos de aprendizaje automático desarrollados en Python (Matrícula de Honor UCLM).*
 *  **[Ejercicios-Python](./Ejercicios-Python)**  
   *Fundamentos, algoritmos y resolución de problemas programados en Python.*
